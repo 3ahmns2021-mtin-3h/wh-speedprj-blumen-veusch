@@ -1,7 +1,8 @@
 # Template2D-Unity202015f1
 
 ### Project description: 
-Introduction/Project summary 
+Space X mal gedrückt → X blaue Blumen wenn Space Taste länger als 1 Sekunde nicht gedrückt wird.
+K> 10 Mal gedrückt aus einem Array von 5 Blumen wird random eine ausgewählt und instanziiert.
 
 ### Development platform: 
 (OS, Unity Version, Visual Studio Version, used SDKs)
@@ -25,4 +26,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by veusch
